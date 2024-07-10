@@ -1,0 +1,8 @@
+반응형폰트사이즈지정
+
+min(),max(),clamp()
+
+
+ clamp (최소, 가운데 값[반응형],  최대) 
+
+.text1{font-size:clamp(15px,1.042vw,20px);}
